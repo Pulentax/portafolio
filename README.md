@@ -2,7 +2,8 @@
 
 ![Oracle Next Education](https://github.com/user-attachments/assets/c58cd360-2632-46a0-bdf8-9ff768b2b026)
 
-*[Estado del proyecto:Finalizado](#Estado-del-proyecto)
+## Estado del proyecto:
+Finalizado
 
 ## Descripción:
 
